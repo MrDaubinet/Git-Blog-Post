@@ -1,1 +1,4 @@
-Creating a merge conflict is a piece of cake
+Creating a merge conflict is a piece of cake.
+All you have to do is add changes to the same file on two
+different branches
+
